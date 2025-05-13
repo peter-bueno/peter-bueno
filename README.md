@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 Olá! Eu sou Peterson Ferreira Bueno!
 
-<!--
-**peter-bueno/peter-bueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desenvolvedor em formação** | **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** | 
 
-Here are some ideas to get you started:
+🛠️ **Habilidades:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Lógica de Programação | POO (Python, C#)
+* Desenvolvimento Web (HTML, CSS, JavaScript, jQuery, Bootstrap)
+* Banco de Dados (MySQL)
+* Automação de Processos (Excel, Power BI em desenvolvimento)
+* Controle de Versão (Git)
+
+🌱 **Atualmente aprendendo:**
+
+* Integração de dados e automação com Power BI
+* Melhoria de performance em aplicações web
+* Padrões de Projeto e Arquitetura de Software
+
+🎯 **Objetivo:**
+Desenvolver soluções inovadoras e automatizar processos para tornar a tecnologia acessível a todos.
+
+📫 **Entre em contato:**
+
+* LinkedIn: [linkedin.com/in/peterson-bueno-06a469249](https://www.linkedin.com/in/peterson-bueno-06a469249/)
+* GitHub: [[github.com/peter-bueno](https://github.com/peter-bueno)]
+* Email: [seuemail@example.com](mailto:pfbuenocontato@gmail.com)
+
+⚡ **Curiosidade:** Além de tecnologia e skateboarding, sou apaixonado por filosofia, especialmente o pensamento de Jean-Paul Sartre sobre liberdade e responsabilidade.
+
+📝 **Mais sobre mim:**
+
+* Criador de pacotes de conteúdo usando gírias, memes e referências culturais para tornar a tecnologia mais divertida e acessível.
+* Em constante busca por novos conhecimentos e desafios na área de tecnologia.
