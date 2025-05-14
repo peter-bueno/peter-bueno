@@ -22,7 +22,7 @@ Desenvolver soluções inovadoras e automatizar processos para tornar a tecnolog
 📫 **Entre em contato:**
 
 * LinkedIn: [linkedin.com/in/peterson-bueno-06a469249](https://www.linkedin.com/in/peterson-bueno-06a469249/)
-* GitHub: [[github.com/peter-bueno](https://github.com/peter-bueno)
+* GitHub: [github.com/peter-bueno](https://github.com/peter-bueno)
 * Email: [pfbuenocontato@gmail.com](mailto:pfbuenocontato@gmail.com)
 
 ⚡ **Curiosidade:** Além de tecnologia e skateboarding, sou apaixonado por filosofia, especialmente o pensamento de Jean-Paul Sartre sobre liberdade e responsabilidade.
