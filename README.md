@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽😊 Olá! Eu sou o Peter. Seja bem vindo!  = )</h1>
+<h1 align="center">👋🏽😊 Olá! Eu sou o Peter.</h1>
 
 ###
 
