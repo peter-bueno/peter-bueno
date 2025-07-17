@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">📖 Sobre mim:</h2>
+<h2 align="center">📖 Sobre mim</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">🎯 Objetivo:</h2>
+<h2 align="center">🎯 Objetivo</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">🛠️ Tecnologias que utilizo:</h2>
+<h2 align="center">🛠️ Tecnologias que utilizo</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">💼 Soft Skills e diferencial:</h2>
+<h2 align="center">💼 Soft Skills e diferencial</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="center">📫 Contato:</h2>
+<h2 align="center">📫 Contato</h2>
 
 ###
 
@@ -60,8 +60,8 @@
 
 ###
 
-## 🕹️ Acompanhe minha jornada:
-#### - Funcionalidade em desenvolvimento.
+<h2 align="center">🕹️ Acompanhe minha jornada</h2>
+##### - Funcionalidade em desenvolvimento.
 
 ###
 <picture>
