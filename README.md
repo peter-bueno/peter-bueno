@@ -1,80 +1,66 @@
-<h1 align="center">👋🏽😊 Olá! Eu sou o Peter.</h1>
-<br>
-<br>
-
-<h2 align="center">📖 Um pouco sobre mim</h2>
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
-<h3 align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, no 3º periodo. Também estou em transição de carreira após 5 anos atuando como Operador CNC. Minha bagagem vem da indústria, onde tive contato direto com projetos de engenharia, interpretação de desenhos técnicos (AutoCAD), metrologia e revisão de peças com engenheiros — o que me trouxe uma visão prática e analítica que hoje aplico na tecnologia.</h3>
-
-<h3 align="center">Seja muito bem vindo(a)!</h3>
-<br>
-
-###
-
-<h2 align="center">🎯 Meu objetivo</h2>
-
-###
-
-<h3 align="center">Desenvolver soluções  funcionais e com propósito real, aplicando conhecimentos em desenvolvimento web e banco de dados, enquanto evoluo como profissional de tecnologia.</h3>
-<br>
-
-
-<h2 align="center">🛠️ Tecnologias que mais utilizo</h2>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="25" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="25" alt="microsoft-outlook logo"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=peter-bueno.peter-bueno&"  />
 </div>
-<br>
 
 ###
 
-<h2 align="center">💼 Soft Skills e diferencial</h2>
+<h1 align="center">Olá, eu sou o Peter!</h1>
 
 ###
 
-<h3 align="center">-  Boa comunicação com equipes técnicas e usuários finais<br>- Facilidade em entender e explicar soluções com clareza<br>- Perfil autodidata e resiliente: aprender fazendo, errando e melhorando. <br>- Experiência com rotina de chão de fábrica, engenharia e processos industriais</h3>
-<br>
+<h3 align="left">👩‍💻  Sobre</h3>
 
 ###
 
-<h2 align="center">📫 Contato</h2>
+<p align="left">Eu sou de curitiba e tenho 27 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na PUCPR. E estou a procura de uma oportunidade para consolidar minha  transição da Industria para TI.<br>    Com a bagagem que adquiri, meu perfil analítico e meu fascínio em aprender, estou empolgado para colaborar com  soluções  criativas, aprender com a equipe e continuar me desenvolvendo.<br><br>- 🔭  Trabalhando em projetos acadêmicos e pessoais.<br>- 📚 Estudando python, web front-end, mysql, git e excel. <br>- 🛹 Apaixonado por Skateboarding.</p>
 
 ###
 
-<h3 align="center">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: <a href="https://www.linkedin.com/in/peterson-fbueno" target="_blank">perfil</a></h3>
-<br>
+<h3 align="left">🛠 Linguagens e/ou Ferramentas</h3>
 
 ###
 
-<h2 align="center">🕹️ Acompanhe minha jornada</h2>
-  - Funcionalidade em desenvolvimento.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph.svg">
-</picture>
+
+<h3 align="left">🔥   Meus status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=peter-bueno&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+</div>
 
 ###
