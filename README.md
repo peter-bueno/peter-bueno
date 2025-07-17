@@ -61,6 +61,7 @@
 ###
 
 ## 🕹️ Acompanhe minha jornada:
+#### - Funcionalidade em desenvolvimento.
 
 ###
 <picture>
