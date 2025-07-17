@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">📖 Sobre mim</h2>
+<h2 align="center">📖 Um pouco sobre mim</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">🎯 Objetivo</h2>
+<h2 align="center">🎯 Meu objetivo</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">🛠️ Tecnologias que utilizo</h2>
+<h2 align="center">🛠️ Tecnologias que mais utilizo</h2>
 
 ###
 
