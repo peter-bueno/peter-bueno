@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽😊 Olá! Eu sou o Peterson F. Bueno</h1>
+<h1 align="center">👋🏽😊 Olá! Eu sou o Peter, entusiasta e estudante de tecnologia.<br> Seja bem vinde! =)</h1>
 
 ###
 
