@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">🎯 Objetivo:</h2>
+<h2 align="left">🎯 Objetivo:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">🛠️ Tecnologias que utilizo:</h2>
+<h2 align="left">🛠️ Tecnologias que utilizo:</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">💼 Soft Skills e diferencial:</h2>
+<h2 align="left">💼 Soft Skills e diferencial:</h2>
 
 ###
 
@@ -52,11 +52,11 @@
 
 ###
 
-<h2 align="center">📫 Contato:</h2>
+<h2 align="left">📫 Contato:</h2>
 
 ###
 
-<h3 align="left">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: <a href="https://www.linkedin.com/in/peterson-fbueno" target="_blank">perfil</a></h3>
+<h3 align="center">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: <a href="https://www.linkedin.com/in/peterson-fbueno" target="_blank">perfil</a></h3>
 
 ###
 
