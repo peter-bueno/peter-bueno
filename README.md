@@ -1,10 +1,6 @@
 <h1 align="center">👋🏽😊 Olá! Eu sou o Peter.</h1>
-<style>
-  h1 {
-  color: red;
-}
-</style>
-
+<br>
+<br>
 
 <h2 align="center">📖 Um pouco sobre mim</h2>
 
