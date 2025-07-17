@@ -17,7 +17,8 @@
 ###
 
 <h3 align="center">Desenvolver soluções  funcionais e com propósito real, aplicando conhecimentos em desenvolvimento web e banco de dados, enquanto evoluo como profissional de tecnologia.</h3>
-
+<br>
+<br>
 ###
 
 <h2 align="center">🛠️ Tecnologias que mais utilizo</h2>
@@ -43,6 +44,8 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
+<br>
+<br>
 
 ###
 
@@ -51,6 +54,8 @@
 ###
 
 <h3 align="center">-  Boa comunicação com equipes técnicas e usuários finais<br>- Facilidade em entender e explicar soluções com clareza<br>- Perfil autodidata e resiliente: aprender fazendo, errando e melhorando. <br>- Experiência com rotina de chão de fábrica, engenharia e processos industriais</h3>
+<br>
+<br>
 
 ###
 
@@ -59,6 +64,8 @@
 ###
 
 <h3 align="center">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: <a href="https://www.linkedin.com/in/peterson-fbueno" target="_blank">perfil</a></h3>
+<br>
+<br>
 
 ###
 
