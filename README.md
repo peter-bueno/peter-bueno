@@ -1,6 +1,5 @@
 # 👋🏽😊 Olá! Eu sou o Peter.
 
-###
 
 <h2 align="center">📖 Um pouco sobre mim</h2>
 
