@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: <a href="https://www.linkedin.com/in/peterson-fbueno" target="_blank">Perfil linkedin</a></h3>
+<h3 align="left">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: <a href="https://www.linkedin.com/in/peterson-fbueno" target="_blank">perfil</a></h3>
 
 ###
 
