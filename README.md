@@ -60,8 +60,8 @@
 
 ###
 
-<h2 style="color: red;"align="center">🕹️ Acompanhe minha jornada</h2>
-#### - Funcionalidade em desenvolvimento.
+<h2 align="center">🕹️ Acompanhe minha jornada</h2>
+  - Funcionalidade em desenvolvimento.
 
 ###
 <picture>
