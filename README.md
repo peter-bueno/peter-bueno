@@ -6,7 +6,9 @@
 
 ###
 
-<h3 align="left">Atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS) e em transição de carreira após 5 anos atuando como Operador CNC. Minha bagagem vem da indústria, onde tive contato direto com projetos de engenharia, interpretação de desenhos técnicos (AutoCAD), metrologia e revisão de peças com engenheiros — o que me trouxe uma visão prática e analítica que hoje aplico na tecnologia.</h3>
+<h3 align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, no 3º periodo. Também estou em transição de carreira após 5 anos atuando como Operador CNC. Minha bagagem vem da indústria, onde tive contato direto com projetos de engenharia, interpretação de desenhos técnicos (AutoCAD), metrologia e revisão de peças com engenheiros — o que me trouxe uma visão prática e analítica que hoje aplico na tecnologia.</h3>
+
+<h3 align="center">Seja muito bem vindo(a)!</h3>
 
 ###
 
