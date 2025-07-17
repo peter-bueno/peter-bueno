@@ -56,18 +56,16 @@
 
 ###
 
-<h3 align="left">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: [linkedin.com/in/peterson-fbueno](https://www.linkedin.com/in/peterson-fbueno)</h3>
+<h3 align="left">- Email: pfbuenocontato@gmail.com  <br>- LinkedIn: [](https://www.linkedin.com/in/peterson-fbueno)</h3>
 
 ###
 
-<h2 align="center">🚀  Acompanhe minha jornada:</h2>
-
-###
+## 🕹️ Acompanhe minha jornada
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
