@@ -60,8 +60,9 @@
 
 ###
 
-## 🕹️ Acompanhe minha jornada
+## 🕹️ Acompanhe minha jornada:
 
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peter-bueno/peter-bueno/output/pacman-contribution-graph.svg">
