@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="auto" src="https://i.imgur.com/sDfPlGj.gif" alt="gif perfil"  />
+  <img height="auto" src="https://i.imgur.com/1aBV7aR.gif" alt="gif perfil"  />
 </div>
-![https://i.imgur.com/sDfPlGj.gif](https://i.imgur.com/sDfPlGj.gif)
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="25" alt="linkedin logo"  />
