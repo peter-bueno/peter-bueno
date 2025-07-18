@@ -21,17 +21,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre</h3>
+<h2 align="left">👩‍💻  Sobre</h2>
 
 ###
 
-<p align="left">Eu sou de curitiba e tenho 27 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na PUCPR. E estou a procura de uma oportunidade para consolidar minha  transição da Industria para TI.<br>    Com a bagagem que adquiri, meu perfil analítico e meu fascínio em aprender, estou empolgado para colaborar com  soluções  criativas, aprender com a equipe e continuar me desenvolvendo.<br><br>- 🔭  Trabalhando em projetos acadêmicos e pessoais.<br>- 📚 Estudando python, web front-end, mysql, git e excel. <br>- 🛹 Apaixonado por Skateboarding.</p><br>
+<p align="left">Eu sou de curitiba e tenho 27 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na PUCPR. E estou a procura de uma oportunidade para consolidar minha  transição da Industria para TI.<br>    Com a bagagem que adquiri, meu perfil analítico e meu fascínio em aprender, estou empolgado para colaborar com  soluções  criativas, aprender com a equipe e continuar me desenvolvendo.<br><br>- 🔭  Trabalhando em projetos acadêmicos e pessoais.<br><br>- 📚 Estudando python, web front-end, mysql, git e excel. <br><br>- 🛹 Apaixonado por Skateboarding.</p><br>
 
 ###
 
 
 
-<h3 align="left">🛠 Linguagens e/ou Ferramentas</h3>
+<h2 align="left">🛠 Linguagens e/ou Ferramentas</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">🔥   Meus status :</h3>
+<h2 align="left">🔥   Meus status :</h2>
 
 ###
 
