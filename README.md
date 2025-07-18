@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.imgur.com/sDfPlGj.gif"  />
+  <img height="150" src="https://i.imgur.com/sDfPlGj.gif" alt="gif perfil"  />
 </div>
 
 ###
