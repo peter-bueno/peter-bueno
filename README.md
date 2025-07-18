@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://i.imgur.com/7GXWdgk.gif"  />
+  <img height="150" src="https://i.imgur.com/lPH7OUR.gif"  />
 </div>
-![img](https://i.imgur.com/7GXWdgk.gif)
 
 ###
 
