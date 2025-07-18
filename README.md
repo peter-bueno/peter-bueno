@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Olá, eu sou o Peter!</h1>
+<h1 align="center">Olá, eu sou o Peter!</h1><br>
 
 ###
 
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+</div><br><br>
 
 ###
 
