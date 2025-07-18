@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img height="auto" src="https://i.imgur.com/1aBV7aR.gif" alt="gif perfil"  />
 </div>
 
