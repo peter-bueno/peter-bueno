@@ -59,10 +59,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=peter-bueno&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=peter-bueno&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="auto" alt="streak graph"  />
 </div>
 
 ###
