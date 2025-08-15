@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Eu sou de curitiba e tenho 27 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na PUCPR. E estou a procura de uma oportunidade para consolidar minha  transição da Industria para TI.<br>    Com a bagagem que adquiri, meu perfil analítico e meu fascínio em aprender, estou empolgado para colaborar com  soluções  criativas, aprender com a equipe e continuar me desenvolvendo.<br><br>- 🔭  Trabalhando em projetos acadêmicos e pessoais.<br><br>- 📚 Estudando python, web front-end, mysql, git e excel. <br><br>- 🛹 Apaixonado por Skateboarding.</p><br>
+<p align="left">Eu sou de curitiba e tenho 27 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na PUCPR. Sou estagiario na PGE/PR, na area de suporte, infraestrutura e desenvolvimento. <br>  Com a bagagem que adquiri, meu perfil analítico e meu fascínio em aprender, estou empolgado para colaborar com  soluções  criativas, aprender com a equipe e continuar me desenvolvendo.<br><br>- 🔭  Trabalhando em projetos acadêmicos e pessoais.<br><br>- 📚 Estudando python, web front-end, mysql, git e excel. <br><br>- 🛹 Apaixonado por Skateboarding.</p><br>
 
 ###
 
